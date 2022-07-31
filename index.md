@@ -1,4 +1,5 @@
-![](\opencreek.png)
+<img src="/opencreek.png" width="60%">
+
 # Foot Tappin' Folk aus Offenbach am Main
 <p class="audiotext">"Down the Road"</p>
  <audio controls>
