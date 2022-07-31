@@ -10,5 +10,5 @@
 
 ## Impressum
 
-Brian Junker-Latocha
+Brian Junker-Latocha  
 Offenbach am Main
