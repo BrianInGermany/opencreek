@@ -8,9 +8,9 @@ tags: [Auftritt]
 # comments: true
 ---
 
-## 10. September im [Ireland Pub Darmstadt](http://www.irelandpub.de/)
+## Macht euch gefasst für einen abgefahrenen Abend mit fußstampfendem Folk!
 
-Im Rahmen der alljährlichen Martinskerb bieten bei der Watzemusiknacht im Martinsviertel verschiedenste Kneipen zeitgleich Live-Musik an. Dieses Jahr hat die Open Creek Stringband die Ehre, den Ireland Pub mit Foot-Tappin' Folk zu versorgen. 
+Im Rahmen der alljährlichen Martinskerb bieten bei der Watzemusiknacht im Martinsviertel verschiedenste Kneipen zeitgleich Live-Musik an. Dieses Jahr hat die Open Creek Stringband die Ehre, den [Ireland Pub](http://www.irelandpub.de/)mit Foot-Tappin' Folk zu versorgen. 
 
 Wir freuen uns!
 
