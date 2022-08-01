@@ -10,7 +10,7 @@ tags: [Auftritt]
 
 ### Macht euch gefasst für einen abgefahrenen Abend mit fußstampfendem Folk!
 
-Im Rahmen der alljährlichen Martinskerb bieten bei der Watzemussiggnacht im Martinsviertel verschiedenste Kneipen zeitgleich Live-Musik an. Dieses Jahr hat die Open Creek Stringband die Ehre, den [Ireland Pub](http://www.irelandpub.de/)mit Foot-Tappin' Folk zu versorgen. 
+Im Rahmen der alljährlichen Martinskerb bieten bei der Watzemussiggnacht im Martinsviertel verschiedenste Kneipen zeitgleich Live-Musik an. Dieses Jahr hat die Open Creek Stringband die Ehre, den [Ireland Pub](http://www.irelandpub.de/) mit Foot-Tappin' Folk zu versorgen. 
 
 Wir freuen uns!
 
