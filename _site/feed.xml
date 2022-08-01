@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Open Creek Stringband</title>
+    
+    
+    <description>Open Creek Stringband Blog</description>
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Watzemusiknacht 2022!</title>
+        <description>
+          Klatscht mit beim Auftritt im Darmstädter Ireland Pub am 10. September! - 
+          10. September im Ireland Pub Darmstadt
+
+Im Rahmen der alljährlichen Martinskerb bieten bei der Watzemusiknacht im Martinsviertel verschiedenste Kneipen zeitgleich Live-Musik an. Dieses Jahr hat die Open Creek Stringband die Ehre, den Ireland Pub mit Foot-Tappin’ Folk zu versorgen.
+
+Wir freuen uns!
+
+
+  Brian, Jim und Javier
+
+
+Down the Road
+
+     
+
+
+        </description>
+        <pubDate>Mon, 01 Aug 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022-08-01-watzemusiknacht/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-08-01-watzemusiknacht/</guid>
+      </item>
+    
+  </channel>
+</rss>
