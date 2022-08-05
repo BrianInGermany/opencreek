@@ -20,9 +20,11 @@ title: Open Creek Stringband
 ###############################################
 
 navbar-links:
-  Gallery: "gallery"
   Bio: "bio"
+  Reinhören: "listen"
+  Gallery: "gallery"
   Impressum: "impressum"
+
 
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
