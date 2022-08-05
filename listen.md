@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Listen
-subtitle: Hört rein!
+title: Reinhören
+subtitle: Kick back and listen in...
 ---
 ![](/assets/img/notPlaying.jpeg)
 
