@@ -12,9 +12,9 @@ tags: [Auftritt]
 
 Am Sonntagabend, dem 13. November spielen wir wieder fußstampfende Melodien aus den USA auf Geige, Gitarre und Banjolele. :)
 
-*Good Coffee*
-*Kleiner Biergrund 17*
-*63065 Offenbach*
+*Good Coffee*  
+*Kleiner Biergrund 17*  
+*63065 Offenbach*  
 
 Bis dahin!
 
