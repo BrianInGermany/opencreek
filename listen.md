@@ -25,6 +25,11 @@ subtitle: Kick back and listen in...
      <source src="/assets/mp3/shortninbread.mp3" type="audio/mpeg">
 </audio>
 
+#### Lost Girl (instrumental)
+ <audio controls>
+     <source src="/assets/mp3/lostgirl.mp3" type="audio/mpeg">
+</audio>
+
 #### Greenback Dollar
  <audio controls>
      <source src="/assets/mp3/greenback_dollar.mp3" type="audio/mpeg">
