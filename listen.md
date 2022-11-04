@@ -15,6 +15,11 @@ subtitle: Kick back and listen in...
      <source src="/assets/mp3/jackofdiamonds.mp3" type="audio/mpeg">
 </audio>
 
+#### Buffalo Gals
+ <audio controls>
+     <source src="/assets/mp3/buffalogals.mp3" type="audio/mpeg">
+</audio>
+
 #### Down the Road
  <audio controls>
      <source src="/assets/mp3/downtheroad.mp3" type="audio/mpeg">
