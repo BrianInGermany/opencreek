@@ -8,7 +8,7 @@ tags: [Auftritt]
 # comments: true
 ---
 
-### Sonntagskonzert im [Good Coffee Offenbach](https://thegoodcoffee.de/offenbach)!
+### Kick back and "Keep On the Sunny Side of Life"!
 
 Am Sonntagabend, dem 13. November spielen wir wieder fußstampfende Melodien aus den USA auf Geige, Gitarre und Banjolele. :)
 
