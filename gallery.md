@@ -14,4 +14,4 @@ subtitle: The Open Creek Stringband as they live and breathe.
 <video src="/assets/img/boilthemcabbage.mp4" autoplay controls muted loop width="100%"></video>
 
 
-![](/assets/img/mathildenplatzfest.jpeg)
+![](/assets/img/opencreeksmiles.jpeg)
