@@ -10,7 +10,7 @@ tags: [Auftritt]
 
 ### Kick back and "Keep On the Sunny Side of Life"!
 
-Am Sonntagabend, dem 13. November spielen wir wieder fußstampfende Melodien aus den USA auf Geige, Gitarre und Banjolele. :)
+Am Sonntagabend, dem 13. November um 18:00 spielen wir wieder fußstampfende Melodien aus den USA auf Geige, Gitarre und Banjolele. :)
 
 *Good Coffee*  
 *Kleiner Biergrund 17*  
