@@ -56,6 +56,7 @@ round-avatar: true
 social-network-links:
   email: "brian@opencreekstringband.com"
   instagram: opencreekstringband
+  spotify: https://open.spotify.com/artist/1Od4phmsB0ivott1LbPOvV?si=EyQbKrJ4QJG4aDNVAvJy3g
   # telegram: brianjl
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
@@ -69,7 +70,6 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
