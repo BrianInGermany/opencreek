@@ -15,5 +15,4 @@ The friendly three-piece from the US and Spain hearkens back to the good old day
 
 Kick back, relax and let the boom-chuckin' of yesteryear keep you on the sunny side of life...
 
-
 ![](/assets/img/mathildenplatzfest.jpeg)
