@@ -3,8 +3,10 @@ layout: page
 title: Gallery
 subtitle: The Open Creek Stringband as they live and breathe.
 ---
+## Jam Sesh Late November 2022
+<video src="/assets/img/choochoo.mp4" autoplay muted controls loop width="100%"></video>
 
-## Jam Sesh November 2022
+## Jam Sesh Early November 2022
 <video src="/assets/img/oceanwaves.mp4" autoplay muted controls loop width="100%"></video>
 
 ## Riverside Hoe-Down 2022
