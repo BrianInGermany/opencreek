@@ -14,9 +14,5 @@ Brian kehrt zurück auf die [Bühne der Goldenen Krone](https://www.goldene-kron
 
 Wir freuen uns!
 
-- Brian, Jim und Javier
-  
-#### I Don't Love Nobody
- <audio controls>
-     <source src="/assets/mp3/idontlovenobody.mp3" type="audio/mpeg">
-</audio>
+- Brian, Jim und Javier  
+<video src="/assets/img/choochoo.mp4" autoplay muted controls loop width="100%"></video>
