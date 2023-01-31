@@ -11,6 +11,7 @@ tags: [Auftritt]
 ### Am Samstag, 11. Februar 2023 um 19:00
 
 Es geht gen Norden nach Bad Homburg! Seid bereit, für Banjo-Beats und Fiddle-fun!
+Im [Irish Pub Bad Homburg](https://jimmymcfarrelsirishpub.de/).
 
 Wir freuen uns!
 
