@@ -5,6 +5,11 @@ subtitle: Kick back and listen in...
 ---
 ![](/assets/img/notPlaying.jpeg)
 
+#### Ain't Gonna Rain No More
+ <audio controls>
+     <source src="/assets/mp3/aintgonnarain.mp3" type="audio/mpeg">
+</audio>
+
 #### Tanner's Farm
  <audio controls>
      <source src="/assets/mp3/tannersfarm.mp3" type="audio/mpeg">
