@@ -13,7 +13,7 @@
 
   
 
-  <meta name="description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:',' | sort -%} {%- for tag...">
+  <meta name="description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:&apos;,&apos; | sort -%} {%- for tag...">
 
   
 
@@ -75,7 +75,7 @@
   
   <meta property="og:site_name" content="Open Creek Stringband">
   <meta property="og:title" content="Tag Index">
-  <meta property="og:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:',' | sort -%} {%- for tag...">
+  <meta property="og:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:&apos;,&apos; | sort -%} {%- for tag...">
 
   
   <meta property="og:image" content="http://localhost:4000/assets/img/opencreek_logo.png">
@@ -94,7 +94,7 @@
   <meta name="twitter:creator" content="@">
 
   <meta property="twitter:title" content="Tag Index">
-  <meta property="twitter:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:',' | sort -%} {%- for tag...">
+  <meta property="twitter:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:&apos;,&apos; | sort -%} {%- for tag...">
 
   
   <meta name="twitter:image" content="http://localhost:4000/assets/img/opencreek_logo.png">
@@ -125,7 +125,7 @@
             <a class="nav-link" href="/bio">Bio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/listen">Reinhören</a>
+            <a class="nav-link" href="/listen">Music</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/gallery">Gallery</a>
@@ -168,6 +168,34 @@
     var searchjson = '[ \
        \
         { \
+          "title"    : "Live in Bad Homburg!", \
+          "category" : "Auftritt", \
+          "url"      : "/2023-04-15-bad_homburg2/", \
+          "date"     : "April 15, 2023" \
+        }, \
+       \
+        { \
+          "title"    : "Live in Bad Homburg!", \
+          "category" : "Auftritt", \
+          "url"      : "/2023-01-31-bad_homburg/", \
+          "date"     : "January 31, 2023" \
+        }, \
+       \
+        { \
+          "title"    : "Live in der Krone!", \
+          "category" : "Auftritt", \
+          "url"      : "/2022-11-30-goldene_krone/", \
+          "date"     : "November 30, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Open Creek Stringband im Good Coffee!", \
+          "category" : "Auftritt", \
+          "url"      : "/2022-10-20-goodcoffee/", \
+          "date"     : "October 20, 2022" \
+        }, \
+       \
+        { \
           "title"    : "Watzemussiggnacht 2022!", \
           "category" : "Auftritt", \
           "url"      : "/2022-08-01-watzemussiggnacht/", \
@@ -204,7 +232,7 @@
         }, \
        \
         { \
-          "title"    : "Reinhören", \
+          "title"    : "Music", \
           "category" : "page", \
           "url"      : "/listen/", \
           "date"     : "January 1, 1970" \
@@ -267,14 +295,34 @@
     <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
       
 
-      <a href="#Auftritt" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;Auftritt&nbsp;(1)</a><div id="full-tags-list"><h2 id="Auftritt" class="linked-section">
+      <a href="#Auftritt" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;Auftritt&nbsp;(5)</a><div id="full-tags-list"><h2 id="Auftritt" class="linked-section">
         <i class="fas fa-tag" aria-hidden="true"></i>
-        &nbsp;Auftritt&nbsp;(1)
+        &nbsp;Auftritt&nbsp;(5)
     </h2>
     <div class="post-list"><div class="tag-entry">
+                <a href="/2023-04-15-bad_homburg2/">Live in Bad Homburg!</a>
+                <div class="entry-date">
+                    <time datetime="2023-04-15T00:00:00+02:00">15. April 2023</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2023-01-31-bad_homburg/">Live in Bad Homburg!</a>
+                <div class="entry-date">
+                    <time datetime="2023-01-31T00:00:00+01:00">31. January 2023</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2022-11-30-goldene_krone/">Live in der Krone!</a>
+                <div class="entry-date">
+                    <time datetime="2022-11-30T00:00:00+01:00">30. November 2022</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2022-10-20-goodcoffee/">Open Creek Stringband im Good Coffee!</a>
+                <div class="entry-date">
+                    <time datetime="2022-10-20T00:00:00+02:00">20. October 2022</time>
+                </div>
+            </div><div class="tag-entry">
                 <a href="/2022-08-01-watzemussiggnacht/">Watzemussiggnacht 2022!</a>
                 <div class="entry-date">
-                    <time datetime="2022-08-01T00:00:00-04:00">August 1, 2022</time>
+                    <time datetime="2022-08-01T00:00:00+02:00">1. August 2022</time>
                 </div>
             </div></div></div>
 
@@ -308,12 +356,20 @@
       </span>
       <span class="sr-only">Instagram</span>
    </a>
+  </li><li class="list-inline-item">
+    <a href="https://open.spotify.com/artist/1Od4phmsB0ivott1LbPOvV?si=EyQbKrJ4QJG4aDNVAvJy3g" title="Spotify">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-spotify fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Spotify</span>
+   </a>
   </li></ul>
 
       
       <p class="copyright text-muted">
       
-      2022
+      2023
 
       
         &nbsp;&bull;&nbsp;
