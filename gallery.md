@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallerie
+title: Galerie
 subtitle: The Open Creek Stringband as they live and breathe.
 ---
 ## Riverside Jam April 2023
