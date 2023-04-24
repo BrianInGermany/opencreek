@@ -13,7 +13,7 @@ tags: [Auftritt]
 Wir spielen auf dem freundlichen französischen Gin-, Wein- und Pastis-Fest am Mathildenplatz in Offenbach!
 ![](/assets/img/apresMidi.jpg)
 
-Krafftstraße 29
+Krafftstraße 29  
 63065 Offenbach
 
 Wir freuen uns!
