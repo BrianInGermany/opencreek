@@ -20,3 +20,4 @@ Wir freuen uns!
 
 - Brian (Gitarre), Jim (Geige), Javier (Banjolele) und Detlev (Kontrabass)
 ![](/assets/img/maindetlev2.jpg)
+![](/assets/img/opencreeksmiles.jpeg)
