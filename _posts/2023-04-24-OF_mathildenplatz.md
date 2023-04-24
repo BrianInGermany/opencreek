@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rockin'Après-Midi!
+title: Rockin' Après-Midi!
 subtitle: Live von der Wein-Fète am Mathildenplatz!
 gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
