@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Music
+title: Songs
 subtitle: Kick back and listen in...
 ---
 ![](/assets/img/notPlaying.jpeg)
