@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rockin' Après-Midi!
-subtitle: Live von der Wein-Fète am Mathildenplatz!
+subtitle: Live von der Wein-Fête am Mathildenplatz!
 gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 tags: [Auftritt]
