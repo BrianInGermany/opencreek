@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rockin'Après-Midi!
-subtitle: Live from the French wine extravaganza at Mathildenplatz!
+subtitle: Live von der Wein-Fète am Mathildenplatz!
 gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 tags: [Auftritt]
@@ -10,8 +10,11 @@ tags: [Auftritt]
 
 ### Am Freitag, 2. Juni um 19:30
 
-Es geht gen Norden nach Bad Homburg! Seid bereit, für Banjo-Beats und Fiddle-fun!
-Im [Irish Pub Bad Homburg](https://jimmymcfarrelsirishpub.de/).
+Wir spielen auf dem freundlichen französischen Gin-, Wein- und Pastis-Fest am Mathildenplatz in Offenbach!
+![](/assets/img/apresMidi.jpg)
+
+Krafftstraße 29
+63065 Offenbach
 
 Wir freuen uns!
 
