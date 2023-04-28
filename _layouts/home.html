@@ -4,9 +4,6 @@ layout: page
 
 {{ content }}
 
-<p style="text-align:center" class="post-preview"><a href="https://open.spotify.com/artist/1Od4phmsB0ivott1LbPOvV?si=EyQbKrJ4QJG4aDNVAvJy3g">Auf Spotify hören!</a></p>
-
-
 <video src="/assets/img/choochoo.mp4" autoplay muted controls loop width="100%"></video>
 {% assign posts = paginator.posts | default: site.posts %}
 
@@ -14,6 +11,7 @@ layout: page
 <ul class="posts-list list-unstyled" role="list">
   {% for post in posts %}
   <li class="post-preview">
+    <p><a href="https://open.spotify.com/artist/1Od4phmsB0ivott1LbPOvV?si=EyQbKrJ4QJG4aDNVAvJy3g">Auf Spotify hören!</a></p>
     <article>
 
       {%- capture thumbnail -%}
