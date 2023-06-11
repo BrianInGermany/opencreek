@@ -6,12 +6,12 @@ layout: page
 
 <img src="/assets/img/OPSB_frames.jpeg" alt="picture opencreekstringband">
 {% assign posts = paginator.posts | default: site.posts %}
+<p><a href="https://open.spotify.com/artist/1Od4phmsB0ivott1LbPOvV?si=EyQbKrJ4QJG4aDNVAvJy3g">Auf Spotify hören!</a></p>
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
   {% for post in posts %}
   <li class="post-preview">
-    <p><a href="https://open.spotify.com/artist/1Od4phmsB0ivott1LbPOvV?si=EyQbKrJ4QJG4aDNVAvJy3g">Auf Spotify hören!</a></p>
     <article>
 
       {%- capture thumbnail -%}
