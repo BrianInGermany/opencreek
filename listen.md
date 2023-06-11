@@ -3,7 +3,7 @@ layout: page
 title: Songs
 subtitle: Kick back and listen in...
 ---
-![](/assets/img/notPlaying.jpeg)
+![](/assets/img/OCSB_concert.jpeg)
 
 #### Ain't Gonna Rain No More
  <audio controls>

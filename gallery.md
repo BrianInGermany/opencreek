@@ -3,6 +3,10 @@ layout: page
 title: Galerie
 subtitle: The Open Creek Stringband as they live and breathe.
 ---
+
+## Après Midi OF Mathildenplatz, Juni 2023
+![](assets/img/OCSB_concert.jpeg)
+
 ## Riverside Jam April 2023
 ![](/assets/img/maindetlev.jpg)
 ![](/assets/img/maindetlev2.jpg)
