@@ -5,6 +5,7 @@ subtitle: Folk unter dem Kirschbaum beim Kirchweihfest.
 gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 tags: [Auftritt]
+thumbnail-img: /assets/img/altkath.jpeg
 # comments: true
 ---
 
