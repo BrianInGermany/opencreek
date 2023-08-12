@@ -10,7 +10,7 @@ tags: [Auftritt]
 
 ### Am Samstag, 16. September ab 15h
 
-Wir rocken das Kirchweihfest der Altkatholischen Gemeinde Offenbach in der Christuskirche.
+Wir rocken das Kirchweihfest der Altkatholischen Gemeinde Offenbach in der Christuskirche. Es ist das Jubiläums-Kirchweihfest: 150 Jahre!
 
 Wir spielen im Hof unter dem Kirch-Kirschbaum. :D
 
