@@ -17,9 +17,9 @@ Wir spielen im Hof unter dem Kirch-Kirschbaum. :D
 
 ![](/assets/img/altkath.jpeg)
 
-Christuskirche
-Bismarckstraße 105
-63065 Offenbach
+Christuskirche  
+Bismarckstraße 105  
+63065 Offenbach  
 
 Wir freuen uns!
 
