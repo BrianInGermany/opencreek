@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kirchweihfest Christuskirche!
+title: "Kirchweihfest: Offenbacher Christuskirche!"
 subtitle: Folk unter dem Kirschbaum beim Kirchweihfest.
 gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]

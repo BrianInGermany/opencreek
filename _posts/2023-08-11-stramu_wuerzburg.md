@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stramu Würzbug
+title: Stramu Würzburg
 subtitle: Live vom Freiufer beim Straßenmusikfest!
 gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
