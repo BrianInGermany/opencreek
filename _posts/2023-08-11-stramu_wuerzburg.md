@@ -14,10 +14,10 @@ thumbnail-img: /assets/img/latzfunstramu.jpeg
 Wir spielen am Freiufer des legendären Straßenmusikfestes StraMu in Würzburg. 
 
 [StraMu Würzburg](https://www.stramu-wuerzburg.de/programm/freiufer/)
-![](../assets/img/latzfunstramu.jpeg)
+![](../assets/img/stramu.png)
 
 Es hat Spaß gemacht!
 
 - Brian (Gitarre), Jim (Geige), Javier (Banjolele) und Detlef (Kontrabass)
-![](/assets/img/maindetlev.jpg)
-![](/assets/img/opencreeksmiles.jpeg)
+![](/assets/img/latzfunstramu.jpeg)
+![](/assets/img/latzfunstramu2.jpeg)
