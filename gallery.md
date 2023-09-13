@@ -9,7 +9,9 @@ subtitle: The Open Creek Stringband as they live and breathe.
 
 
 ## Mainside Practice, August 2023
-<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fjorg.bembelboot%2Fvideos%2F1016999379302942%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fjorg.bembelboot%2Fvideos%2F1016999379302942%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>  
+  
+![](/assets/img/weepingWillow.jpeg)
 
 ## Après Midi OF Mathildenplatz, Juni 2023
 ![](assets/img/OCSB_concert.jpeg)
