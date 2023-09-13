@@ -5,7 +5,7 @@ subtitle: Live vom Freiufer beim Straßenmusikfest!
 gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 tags: [Auftritt]
-thumbnail-img: /assets/img/latzfunstramu.jpeg
+thumbnail-img: /assets/img/stramu.png
 # comments: true
 ---
 
