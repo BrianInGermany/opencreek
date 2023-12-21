@@ -8,7 +8,7 @@ tags: [Auftritt]
 # comments: true
 ---
 
-### Am Donnerstag, 21. Dez 2022 um 20:00
+### Am Donnerstag, 21. Dez 2023 um 20:00
 
 Es geht gen Norden nach Bad Homburg! Seid bereit, für Banjo-Beats und Fiddle-fun! Kontrabass darf auch nicht fehlen...
 
