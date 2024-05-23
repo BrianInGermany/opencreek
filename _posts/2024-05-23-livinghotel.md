@@ -3,6 +3,7 @@ layout: post
 title: Live in Sachsenhausen!
 subtitle: Wir spielen beim Couch Concert im Living Hotel
 gh-repo: daattali/beautiful-jekyll
+thumbnail-img: /assets/img/latzfunstramu.jpeg
 # gh-badge: [star, fork, follow]
 tags: [Auftritt]
 # comments: true
