@@ -3,7 +3,7 @@ layout: post
 title: Live at Jimmy McFarrel's!
 subtitle: Wir spielen wieder mitten in Bad Homburg
 gh-repo: daattali/beautiful-jekyll
-thumbnail-img: /assets/img/latzfunstramu.jpeg
+thumbnail-img: /assets/img/june24jimmys.jpg
 # gh-badge: [star, fork, follow]
 tags: [Auftritt]
 # comments: true
