@@ -11,6 +11,8 @@ tags: [Auftritt]
 
 ## 1. Juni um 20:00
 
+![](/assets/img/june24jimmys.jpg)
+  
 [Jimmy McFarrel's Pub](https://jimmymcfarrelsirishpub.de/)
 
 See you there!
