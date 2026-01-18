@@ -1018,6 +1018,12 @@ pre {
   margin: 0 auto;
 }
 
+.rubik-dirt-regular {
+  font-family: "Rubik Dirt", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
 /* Search bar */
 #beautifuljekyll-search-overlay {
   display: none;
